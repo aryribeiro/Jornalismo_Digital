@@ -2,7 +2,7 @@
 
 Este repositório contém links das publicações no portal, com entrevistas, reportagens, programas, comentários em rádio FM, artigos e correlatos. Ainda, edição de vídeo e imagem, geração de imagens com Inteligência Artificial e trabalho como Webmaster Wordpress.
 
-## Entrevistas e reportagens, presenciais e online
+## Entrevistas e reportagens, presenciais e remotas
 
 ### 1. 💻 Entrevista com Harold Schultz da MakeOne
 Conversamos sobre a nova versão do ChatGPT 4o e visita no vale do silício.
