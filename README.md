@@ -41,5 +41,5 @@ Conversamos também sobre o livro “O capitalismo mundial e a captura do setor 
 - [Confira no portal DN](https://diretonoticias.com.br/2023/04/13/entrevista-com-salatiel-correia-ex-celg/)
 
 - ### 10. 💻 Entrevista com Deltan Dallagnol no ES
-Conversamos sobre perseguição política, treinamento do partido NOVO no ES, dentro outros assuntos.
+Conversamos sobre perseguição política, treinamento do partido NOVO no ES, dentre outros assuntos.
 - [Confira no portal DN](https://diretonoticias.com.br/2024/05/20/novo-reune-deltan-dallagnol-rodrigo-borges-eduardo-ribeiro-iuri-aguiar-e-outros-no-es/)
