@@ -2,7 +2,7 @@
 
 Este repositório contém links das publicações no portal, com entrevistas, reportagens, programas, comentários em rádio FM, artigos e correlatos. Ainda, edição de vídeo e imagem, geração de imagens com Inteligência Artificial e trabalho como Webmaster Wordpress.
 
-## Entrevistas e reportagens, presenciais e remotas
+## Entrevistas e reportagens, presenciais e online
 
 ### 1. 💻 Entrevista com Harold Schultz da MakeOne
 Conversamos sobre a nova versão do ChatGPT 4o e visita no vale do silício.
@@ -43,3 +43,15 @@ Conversamos também sobre o livro “O capitalismo mundial e a captura do setor 
 - ### 10. 💻 Entrevista com Deltan Dallagnol no ES
 Conversamos sobre perseguição política, treinamento do partido NOVO no ES, dentre outros assuntos.
 - [Confira no portal DN](https://diretonoticias.com.br/2024/05/20/novo-reune-deltan-dallagnol-rodrigo-borges-eduardo-ribeiro-iuri-aguiar-e-outros-no-es/)
+
+- ### 11. 💻 Entrevista com Maurício Conti da Yanayaco Amazon Palms
+Conversamos sobre biocombustíveis, além da movimentação da startup, na Rondônia Rural Show 2024.
+- [Confira no portal DN](https://diretonoticias.com.br/2024/05/23/entrevista-com-mauricio-conti-da-yanayaco-amazon-palms/)
+
+- ### 12. 💻 Entrevista com a Dra Raíssa Soares
+Conversamos sobre síndrome pós-covid e sua atuação no cenário político, da Bahia.
+- [Confira no portal DN](https://diretonoticias.com.br/2023/11/18/entrevista-dra-raissa-soares-fala-sobre-sindrome-pos-covid/)
+
+- ### 13. 💻 Vida em Equilíbrio: bases, valores e princípios
+Nesse artigo, escrevi sobre as Bases do Equilíbrio. Para termos uma Vida em Equilíbrio, precisamos entender que Bases, Valores e Princípios são tudo em nossa vida.
+- [Confira no portal DN](https://diretonoticias.com.br/2021/06/27/vida-em-equilibrio-bases-valores-e-principios-que-sao-tudo-em-nossa-vida-para-ser-feliz-e-agradar-a-deus-portal-direto-noticias/)
