@@ -59,3 +59,7 @@ Conversamos sobre síndrome pós-covid e sua atuação no cenário político, da
 - ### 13. 💻 Vida em Equilíbrio: bases, valores e princípios
 Nesse artigo, escrevi sobre as Bases do Equilíbrio. Para termos uma Vida em Equilíbrio, precisamos entender que Bases, Valores e Princípios são tudo em nossa vida.
 - [Confira no portal DN](https://diretonoticias.com.br/2021/06/27/vida-em-equilibrio-bases-valores-e-principios-que-sao-tudo-em-nossa-vida-para-ser-feliz-e-agradar-a-deus-portal-direto-noticias/)
+
+- ### 14. 💻 Reflexões Políticas: A Hora da Vingança
+O quadro foi criado para a Radio Nova Iguaçú FM (Porto Seguro) e para o portal. Na Radio, rodava toda segunda, quarta e sexta as 19h.
+- [Confira no portal DN](https://diretonoticias.com.br/2022/05/13/reflexoes-politicas-a-hora-da-vinganca/)
