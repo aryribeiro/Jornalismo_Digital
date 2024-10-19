@@ -1,6 +1,6 @@
 # Jornalista Digital (MTE 0004585/ES) no portal Direto Notícias
 
-Este repositório contém links das publicações no portal, com entrevistas, reportagens, programas, comentários em rádio FM, artigos e correlatos. Ainda, edição de vídeo e imagem, geração de imagens com Inteligência Artificial e trabalho como Webmaster Wordpress.
+Este repositório contém links das publicações no portal, com entrevistas, reportagens, programas, comentários em rádio FM, artigos e correlatos. Ainda, edição de vídeo e imagem, geração de imagens com Inteligência Artificial, Webmaster Wordpress, criação de conteúdo e afins.
 
 ## Entrevistas e reportagens, presenciais e remotas
 
